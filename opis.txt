@@ -1,0 +1,18 @@
+﻿I5X3S1
+
+ 
+Gawryś Radosław, 
+Bąk Michał,
+Bancerz Patrycja
+
+
+SPACE INVADERS
+
+ 
+Space Invaders jest klasyczną grą typu shoot'em up (strzelanka). Wykorzystuje ona grafikę dwuwymiarową. Gra polega na niszczeniu kolejnych fal kosmitów przy użyciu działka laserowego i na zbieraniu jak największej liczby punktów.
+
+ Gracz kontroluje działko laserowe przemieszczając je na dole ekranu za pomocą strzałek i strzelając do kosmitów za pomocą sapacji. Celem jest zniszczenie wszystkich rzędów kosmitów, które poruszają się poziomo tam i z powrotem oraz opadają w dół ekranu. Gracz pokonuje kosmitę, zyskując przy tym pewną ilość punktów, zestrzeliwując go z działka laserowego. 
+
+ Kosmici starają się zniszczyć działko strzelając w nie. Jednocześnie zbliżają się ku dołowi planszy. Gdy tam dotrą, oznacza to, że ich inwazja się powiodła, a gra się kończy. 
+
+ Działko laserowe chronione jest przez kilka stacjonarnych stanowisk obronnych, które sę stopniowo niszczone przez wrogi ostrzał.
